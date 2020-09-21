@@ -13,3 +13,7 @@
 11. State and SetState
 12. Props usage in child from parent
 13. Used Materialize Css
+
+## Followed Net Ninja
+
+Check the video playlist https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG
