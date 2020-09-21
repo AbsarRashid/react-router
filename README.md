@@ -12,3 +12,4 @@
 10. Programmatic Redirects
 11. State and SetState
 12. Props usage in child from parent
+13. Used Materialize Css
