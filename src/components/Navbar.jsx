@@ -10,9 +10,9 @@ const Navbar = (props) => {
   return (
     <nav className="nav-wrapper red darken-3">
       <div className="container">
-        <a className="brand-logo" href="#">
+        <span className="brand-logo" href="#">
           Poke'Times
-        </a>
+        </span>
         <ul className="right">
           <li>
             <Link to="/">Home</Link>
